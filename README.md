@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 | Name of Certification | Date Achieved (dd/mm/yyyy) | Badge | Certificate |
 |---|---|---|---|
-| Azure Fundamentals (AZ-900) | 22/06/2021 | ![alt text](assets/images/azure-fundamentals.png)
+| Azure Fundamentals (AZ-900) | 22/06/2021 | ![alt text](assets/images/azure-fundamentals.png) | [PDF here](assets/certificate/azure-fundamentals-certificate.pdf) |
